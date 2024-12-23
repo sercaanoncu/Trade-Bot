@@ -1,2 +1,2 @@
 # Trade-Bot
-Buy Sell Signal And Trade Bot
+This repository presents a Python-based backtest environment for generating Buy-Sell signals and simulating leveraged trades in cryptocurrency markets. By combining technical indicators, customizable risk management parameters (such as stop-loss and take-profit), and dynamic leverage configurations, the framework allows users to rigorously evaluate different trading strategies on historical data. The modular structure and detailed performance reports aim to facilitate continuous experimentation, data-driven insights, and intuitive decision-making for both novice and experienced traders.
